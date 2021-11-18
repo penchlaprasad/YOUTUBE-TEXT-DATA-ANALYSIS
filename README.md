@@ -1,0 +1,2 @@
+# YOUTUBE-TEXT-DATA-ANALYSIS
+Performing YouTube text data analysis like Performing Sentiment Analysis, Wordcloud representation of sentiment, Analyze trending tags and views of YouTube,  perform emojis analysis.  Importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning and Data Presentation.
